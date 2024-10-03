@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemplo: dados educacionais do ENEM]**.  
+Este projeto consiste na análise de **Remuneração do mercado de trabalho para profissionais de dados considerando os anos 2021, 2022 e 2023**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -14,19 +14,21 @@ Este projeto consiste na análise de **[escolha o tema do seu projeto, por exemp
 ---
 
 ## Bases Escolhidas  
-- **Base 1**: [Nome da base de dados e fonte (por exemplo, Microdados do ENEM, INEP)]  
-- **Base 2**: [Nome da base de dados e fonte (opcional, caso use outra base complementar)]  
+- **Base 1**: [https://www.kaggle.com/datasets/datahackers/state-of-data-brazil-2023?resource=download, Dahackers, 2023]  
+- **Base 2**: [https://www.kaggle.com/datasets/datahackers/state-of-data-2022, Dahackers, 2022]
+- **Base 3**: [https://www.kaggle.com/datasets/datahackers/state-of-data-2021, Dahackers, 2021]  
+
 
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu projeto, por exemplo: identificar as variáveis que influenciam o desempenho dos alunos no ENEM]**.  
+Realizar uma análise dos dados com o objetivo de **Compreender a remuneração do mercado de trabalho para profissionais de dados considerando os anos 2021, 2022 e 2023**.  
 
 ### As perguntas norteadoras deste projeto são:  
-1. **[Pergunta sobre o perfil dos dados]** - Quais são as principais características da base de dados selecionada?  
-2. **[Pergunta comparativa]** - Há diferenças de desempenho entre os grupos de interesse (ex.: escolas públicas vs. privadas)?  
-3. **[Pergunta relacional]** - Existe correlação entre fatores socioeconômicos e os resultados dos alunos?  
-4. **[Pergunta exploratória]** - Quais insights podem ser extraídos a partir dos padrões identificados nos dados?
+1. **Existiu uma queda na remuneração dos profissionais de dados considerando os anos analisados?**
+2. **Existe uma exigencia maior de escolaridade para os profissionais de 2023 comparados a 2021?** 
+3. **Existe uma relação entre a remuneração e o tempo de experiencia comparando os anos de 2021, 2022 e 2023?**
+4. **Existe uma relação entre a remuneração dos profissionais por genero?**
 
 ---
 
@@ -34,4 +36,4 @@ Realizar uma análise dos dados com o objetivo de **[escreva o objetivo do seu p
 - **Python (Jupyter Notebook)**: Para a análise exploratória de dados utilizando bibliotecas como Pandas, Seaborn, Matplotlib, etc.  
 - **Tableau**: Para criar as visualizações finais e apresentar os insights gerados.  
 - **GitHub**: Para versionamento do projeto e documentação.  
-- **Google Colab** (opcional): Para execução de notebooks de forma colaborativa e em nuvem.  
+- **Google Colab**: Para execução de notebooks de forma colaborativa e em nuvem.  
