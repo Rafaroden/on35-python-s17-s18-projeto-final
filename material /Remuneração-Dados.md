@@ -1,7 +1,7 @@
 # Projeto Final de Análise de Dados
 
 ## Contexto  
-Este projeto consiste na análise de **Remuneração do mercado de trabalho para profissionais de dados considerando os anos 2021, 2022 e 2023**.  
+Este projeto consiste na análise de **Mudanças no mercado de trabalho de dados no cenário pós pandemia**.  
 
 ## Etapas do projeto:
 1. **Selecionar a Base de Dados** [Escolher e explorar a base de dados relevante ao tema.]
@@ -22,12 +22,12 @@ Este projeto consiste na análise de **Remuneração do mercado de trabalho para
 ---
  
 ### Objetivo Geral:
-Realizar uma análise dos dados com o objetivo de **Compreender a remuneração do mercado de trabalho para profissionais de dados considerando os anos 2021, 2022 e 2023**.  
+Realizar uma análise dos dados com o objetivo de **Impacto ds mudanças no mercado de trabalho para profissionais de dados no cenário pós pandemia**.  
 
 ### As perguntas norteadoras deste projeto são:  
-1. **Existiu uma queda na remuneração dos profissionais de dados considerando os anos analisados?**
-2. **Existe uma exigencia maior de escolaridade para os profissionais de 2023 comparados a 2021?** 
-3. **Existe uma relação entre a remuneração e o tempo de experiencia comparando os anos de 2021, 2022 e 2023?**
+1. **Qual as tendências de cargos nas áreas de dados?**
+2. **Existe uma exigencia maior de nível para os profissionais de 2023 comparados a 2021?** 
+3. **Existe mudanças nas condições de trabalho, observando o modelo de trabalho, nos anos de 2021, 2022 e 2023?**
 4. **Existe uma relação entre a remuneração dos profissionais por genero?**
 
 ---
